@@ -1,15 +1,15 @@
-### Hi there, I'm Piyush Tiwari - Just another tech-savvy out there !!
+### Hi there, I'm Piyush Tiwari !!
 
 ## I'm a Full stack developer!
 ⚡ I love to 
 - Play mobile games. 
-- Try new technologies and share them using blogs and github projects.
+- Try new technologies and share it using blogs and github projects.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="executeitwithease.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="piyusht2929 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="piyush | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -55,8 +55,12 @@
 <br />
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
+### Applications:
+- [<img align="left" alt="sample angular app" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/angular.js" />][angular2-app]
+
 ---
 
+[angular2-app]: http://furtive-hall.surge.sh/
 [website]: https://executeitwithease.blogspot.com/
 [twitter]: https://twitter.com/piyusht2929
 [linkedin]: https://www.linkedin.com/in/piyush-tiwari-8291952b/
