@@ -1,6 +1,9 @@
-### Hi there, I'm Piyush Tiwari !!
+### Hi there, I'm Piyush Tiwari !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm a Full stack developer!
+## I'm a Full stack developer!!
+
+I am from **India**, living in **Pune** and currently working at **TomTom** 
+
 ⚡ I love to 
 - Play mobile games. 
 - Try new technologies and share it using blogs and github projects.
@@ -20,7 +23,7 @@
 - Online advertising.
 - Banking and financial services.
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -28,6 +31,8 @@
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 <br />
 ![](https://img.shields.io/badge/Architecture-Microservices-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DevOps-CI/CD-informational?style=flat&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 <br />
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
