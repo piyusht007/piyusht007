@@ -1,9 +1,9 @@
 ### Hi there, I'm Piyush Tiwari - Just another tech-savvy out there !!
 
 ## I'm a Full stack developer!
-- ⚡ I love to 
-    - Play mobile games. 
-    - Try new technologies and share them using blogs and github projects.
+⚡ I love to 
+- Play mobile games. 
+- Try new technologies and share them using blogs and github projects.
 
 ### Connect with me:
 
@@ -12,6 +12,13 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+### Domains worked for:
+
+- Location, navigation and map technologies.
+- Contact center as a service.
+- Online advertising.
+- Banking and financial services.
 
 ### Languages and Tools:
 
@@ -36,9 +43,6 @@
 ![](https://img.shields.io/badge/Deployment-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 <br />
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
-
-<br />
-<br />
 
 ---
 
