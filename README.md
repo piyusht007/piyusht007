@@ -15,22 +15,22 @@
 
 ### Languages and Tools:
 
-![](https://img.shields.io/badge/OS-Linux-green)
-![](https://img.shields.io/badge/Language-Java-green)
-![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-green)
-![](https://img.shields.io/badge/Editor-Eclipse-green)
-![](https://img.shields.io/badge/Framework-Spring-green)
-![](https://img.shields.io/badge/Framework-AngularJS-green)
-![](https://img.shields.io/badge/Framework-React-green)
-![](https://img.shields.io/badge/Testing-Cucumber-green)
-![](https://img.shields.io/badge/Testing-Karate-green)
-![](https://img.shields.io/badge/Database-MySQL-green)
-![](https://img.shields.io/badge/Database-PostgreSQL-green)
-![](https://img.shields.io/badge/Database-ElasticSearch-green)
-![](https://img.shields.io/badge/Database-AWS%20Dynamo%20DB-green)
-![](https://img.shields.io/badge/Deployment-docker-green)
-![](https://img.shields.io/badge/Deployment-kubernetes-green)
-![](https://img.shields.io/badge/Cloud-AWS-green)
+![](https://img.shields.io/badge/OS-Linux-darkgreen)
+![](https://img.shields.io/badge/Language-Java-darkgreen)
+![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-darkgreen)
+![](https://img.shields.io/badge/Editor-Eclipse-darkgreen)
+![](https://img.shields.io/badge/Framework-Spring-darkgreen)
+![](https://img.shields.io/badge/Framework-AngularJS-darkgreen)
+![](https://img.shields.io/badge/Framework-React-darkgreen)
+![](https://img.shields.io/badge/Testing-Cucumber-darkgreen)
+![](https://img.shields.io/badge/Testing-Karate-darkgreen)
+![](https://img.shields.io/badge/Database-MySQL-darkgreen)
+![](https://img.shields.io/badge/Database-PostgreSQL-darkgreen)
+![](https://img.shields.io/badge/Database-ElasticSearch-darkgreen)
+![](https://img.shields.io/badge/Database-AWS%20Dynamo%20DB-darkgreen)
+![](https://img.shields.io/badge/Deployment-docker-darkgreen)
+![](https://img.shields.io/badge/Deployment-kubernetes-darkgreen)
+![](https://img.shields.io/badge/Cloud-AWS-darkgreen)
 
 <br />
 <br />
