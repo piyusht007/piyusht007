@@ -57,7 +57,7 @@
 
 ### Applications:
 
-- [<img align="left" alt="sample angular app" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/angular.js" />][angular2-app]
+[<img align="left" alt="sample angular app" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />][angular2-app]
 
 ---
 
