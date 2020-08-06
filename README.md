@@ -19,17 +19,22 @@
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
+<br />
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-AngularJS-informational?style=flat&logo=angularjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+<br />
 ![](https://img.shields.io/badge/Testing-Cucumber-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Testing-Karate-informational?style=flat&logoColor=white&color=2bbc8a)
+<br />
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-AWS%20Dynamo%20DB-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+<br />
 ![](https://img.shields.io/badge/Deployment-docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Deployment-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+<br />
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
 <br />
