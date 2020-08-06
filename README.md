@@ -56,6 +56,7 @@
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
 ### Applications:
+
 - [<img align="left" alt="sample angular app" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/angular.js" />][angular2-app]
 
 ---
