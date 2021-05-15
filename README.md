@@ -2,7 +2,7 @@
 
 ## I'm a Full stack developer!!
 
-I am from **India**, living in **Pune** and currently working at **TomTom** 
+I am from **India**, living in **Pune** and currently working at **[Nuance](https://www.nuance.com/index.html)** 
 
 ⚡ I love to 
 - Play mobile games. 
